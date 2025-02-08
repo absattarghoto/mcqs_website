@@ -1,0 +1,998 @@
+{
+    "generalKnowledge": {
+      "title": "General Knowledge Quiz",
+      "questions": [
+        {
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "Who painted the Mona Lisa?",
+          "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+          "correctAnswer": "Leonardo da Vinci"
+        },
+        {
+          "question": "What is the capital of France?",
+          "options": ["Berlin", "Madrid", "Paris", "Rome"],
+          "correctAnswer": "Paris"
+        },
+        {
+          "question": "Which is the longest river in the world?",
+          "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+          "correctAnswer": "Nile River"
+        },
+        {
+          "question": "Who wrote the play 'Romeo and Juliet'?",
+          "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+          "correctAnswer": "William Shakespeare"
+        },
+        {
+          "question": "What is the national currency of Japan?",
+          "options": ["Yuan", "Yen", "Won", "Ringgit"],
+          "correctAnswer": "Yen"
+        },
+        {
+          "question": "Which continent has the most countries?",
+          "options": ["Asia", "Africa", "Europe", "South America"],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "What is the hardest natural substance on Earth?",
+          "options": ["Gold", "Iron", "Diamond", "Platinum"],
+          "correctAnswer": "Diamond"
+        },
+        {
+          "question": "Which is the smallest country in the world by area?",
+          "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+          "correctAnswer": "Vatican City"
+        },
+        {
+          "question": "What is the name of the first man to walk on the moon?",
+          "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+          "correctAnswer": "Neil Armstrong"
+        },
+        {
+          "question": "What is the largest desert in the world (excluding polar deserts)?",
+          "options": ["Gobi Desert", "Sahara Desert", "Kalahari Desert", "Patagonian Desert"],
+          "correctAnswer": "Sahara Desert"
+        },
+        {
+          "question": "What is the tallest mountain in the world?",
+          "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+          "correctAnswer": "Mount Everest"
+        },
+        {
+          "question": "What is the largest ocean on Earth?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+          "correctAnswer": "Pacific Ocean"
+        },
+        {
+          "question": "Which country is known as the Land of the Rising Sun?",
+          "options": ["China", "Japan", "South Korea", "Thailand"],
+          "correctAnswer": "Japan"
+        },
+        {
+          "question": "What is the fastest land animal?",
+          "options": ["Cheetah", "Lion", "Leopard", "Tiger"],
+          "correctAnswer": "Cheetah"
+        },
+        {
+          "question": "Who is known as the Father of Computers?",
+          "options": ["Albert Einstein", "Charles Babbage", "Isaac Newton", "Alan Turing"],
+          "correctAnswer": "Charles Babbage"
+        },
+        {
+          "question": "What year did World War II end?",
+          "options": ["1942", "1945", "1948", "1950"],
+          "correctAnswer": "1945"
+        },
+        {
+          "question": "What is the largest country by area?",
+          "options": ["Canada", "United States", "Russia", "China"],
+          "correctAnswer": "Russia"
+        },
+        {
+          "question": "Who discovered penicillin?",
+          "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Isaac Newton"],
+          "correctAnswer": "Alexander Fleming"
+        },
+        {
+          "question": "Which language has the most native speakers?",
+          "options": ["English", "Mandarin", "Hindi", "Spanish"],
+          "correctAnswer": "Mandarin"
+        },
+        {
+          "question": "What is the longest bone in the human body?",
+          "options": ["Femur", "Tibia", "Humerus", "Fibula"],
+          "correctAnswer": "Femur"
+        },
+        {
+          "question": "Which country gifted the Statue of Liberty to the USA?",
+          "options": ["United Kingdom", "France", "Germany", "Canada"],
+          "correctAnswer": "France"
+        },
+        {
+          "question": "Which instrument has 88 keys?",
+          "options": ["Guitar", "Piano", "Violin", "Drums"],
+          "correctAnswer": "Piano"
+        },
+        {
+          "question": "Which element has the chemical symbol 'O'?",
+          "options": ["Gold", "Oxygen", "Silver", "Iron"],
+          "correctAnswer": "Oxygen"
+        },
+        {
+          "question": "What is the capital city of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "correctAnswer": "Canberra"
+        },
+        {
+          "question": "Which planet is known for its rings?",
+          "options": ["Jupiter", "Mars", "Saturn", "Venus"],
+          "correctAnswer": "Saturn"
+        },
+        {
+          "question": "Which is the smallest planet in our solar system?",
+          "options": ["Mercury", "Mars", "Venus", "Pluto"],
+          "correctAnswer": "Mercury"
+        },
+        {
+          "question": "Which country is home to the Great Barrier Reef?",
+          "options": ["Australia", "USA", "Brazil", "South Africa"],
+          "correctAnswer": "Australia"
+        },
+        {
+          "question": "Who wrote the novel '1984'?",
+          "options": ["George Orwell", "Aldous Huxley", "Ernest Hemingway", "F. Scott Fitzgerald"],
+          "correctAnswer": "George Orwell"
+        },
+        {
+          "question": "What is the primary ingredient in guacamole?",
+          "options": ["Tomato", "Avocado", "Onion", "Pepper"],
+          "correctAnswer": "Avocado"
+        },
+        {
+          "question": "What does 'www' stand for in a website browser?",
+          "options": ["World Wide Web", "World Web Wide", "Wide Web World", "Web World Wide"],
+          "correctAnswer": "World Wide Web"
+        },
+        {
+          "question": "Which continent is known as the 'Dark Continent'?",
+          "options": ["Asia", "Africa", "Europe", "South America"],
+          "correctAnswer": "Africa"
+        },
+        {
+          "question": "What is the chemical symbol for gold?",
+          "options": ["Ag", "Au", "Gd", "Go"],
+          "correctAnswer": "Au"
+        },
+        {
+          "question": "Who invented the telephone?",
+          "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+          "correctAnswer": "Alexander Graham Bell"
+        },
+        {
+          "question": "What is the largest island in the world?",
+          "options": ["Greenland", "Madagascar", "Borneo", "New Guinea"],
+          "correctAnswer": "Greenland"
+        },
+        {
+          "question": "Which vitamin is primarily obtained from citrus fruits?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "correctAnswer": "Vitamin C"
+        },
+        {
+          "question": "In which city is the Eiffel Tower located?",
+          "options": ["Rome", "Paris", "London", "Berlin"],
+          "correctAnswer": "Paris"
+        },
+        {
+          "question": "What is the fastest aquatic animal?",
+          "options": ["Marlin", "Sailfish", "Shark", "Tuna"],
+          "correctAnswer": "Sailfish"
+        },
+        {
+          "question": "Which country hosted the 2016 Summer Olympics?",
+          "options": ["China", "Brazil", "UK", "Russia"],
+          "correctAnswer": "Brazil"
+        },
+        {
+          "question": "What is the process by which plants make food called?",
+          "options": ["Respiration", "Photosynthesis", "Transpiration", "Osmosis"],
+          "correctAnswer": "Photosynthesis"
+        },
+        {
+          "question": "Who was the first female Prime Minister of the United Kingdom?",
+          "options": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
+          "correctAnswer": "Margaret Thatcher"
+        },
+        {
+          "question": "Which animal is known as the King of the Jungle?",
+          "options": ["Elephant", "Lion", "Tiger", "Bear"],
+          "correctAnswer": "Lion"
+        },
+        {
+          "question": "What is the largest organ in the human body?",
+          "options": ["Heart", "Liver", "Skin", "Lung"],
+          "correctAnswer": "Skin"
+        },
+        {
+          "question": "Which gas is most abundant in the Earth's atmosphere?",
+          "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+          "correctAnswer": "Nitrogen"
+        },
+        {
+          "question": "What is the main language spoken in Brazil?",
+          "options": ["Spanish", "Portuguese", "French", "English"],
+          "correctAnswer": "Portuguese"
+        },
+        {
+          "question": "Which U.S. state is known as the 'Sunshine State'?",
+          "options": ["California", "Florida", "Texas", "Nevada"],
+          "correctAnswer": "Florida"
+        },
+        {
+          "question": "Who wrote 'To Kill a Mockingbird'?",
+          "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+          "correctAnswer": "Harper Lee"
+        },
+        {
+          "question": "Which instrument is known as the 'king of instruments'?",
+          "options": ["Violin", "Piano", "Organ", "Guitar"],
+          "correctAnswer": "Organ"
+        },
+        {
+          "question": "What does DNA stand for?",
+          "options": ["Deoxyribonucleic Acid", "Deoxyribose Nucleic Acid", "Deoxynuclear Acid", "Dinitrogen Acid"],
+          "correctAnswer": "Deoxyribonucleic Acid"
+        },
+        {
+          "question": "Which planet is closest to the sun?",
+          "options": ["Mercury", "Venus", "Earth", "Mars"],
+          "correctAnswer": "Mercury"
+        },
+        {
+          "question": "Which famous scientist developed the theory of relativity?",
+          "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+          "correctAnswer": "Albert Einstein"
+        }
+      ]
+    },
+    "pakStudy": {
+      "title": "PAK Study MCQs Quiz",
+      "questions": [
+        {
+          "question": "Who is the founder of Pakistan?",
+          "options": ["Allama Iqbal", "Liaquat Ali Khan", "Quaid-e-Azam", "Benazir Bhutto"],
+          "correctAnswer": "Quaid-e-Azam"
+        },
+        {
+          "question": "Which is the national language of Pakistan?",
+          "options": ["Punjabi", "Sindhi", "Urdu", "Pashto"],
+          "correctAnswer": "Urdu"
+        },
+        {
+          "question": "When did Pakistan gain independence?",
+          "options": ["14th August 1947", "23rd March 1940", "6th September 1965", "16th December 1971"],
+          "correctAnswer": "14th August 1947"
+        },
+        {
+          "question": "Which is the largest province of Pakistan by area?",
+          "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa"],
+          "correctAnswer": "Balochistan"
+        },
+        {
+          "question": "Which city is known as the 'City of Lights'?",
+          "options": ["Lahore", "Karachi", "Islamabad", "Peshawar"],
+          "correctAnswer": "Karachi"
+        },
+        {
+          "question": "What is the national sport of Pakistan?",
+          "options": ["Cricket", "Hockey", "Football", "Squash"],
+          "correctAnswer": "Hockey"
+        },
+        {
+          "question": "Who wrote the national anthem of Pakistan?",
+          "options": ["Allama Iqbal", "Hafeez Jalandhari", "Faiz Ahmed Faiz", "Josh Malihabadi"],
+          "correctAnswer": "Hafeez Jalandhari"
+        },
+        {
+          "question": "Which dam is the largest in Pakistan?",
+          "options": ["Mangla Dam", "Tarbela Dam", "Warsak Dam", "Diamer-Bhasha Dam"],
+          "correctAnswer": "Tarbela Dam"
+        },
+        {
+          "question": "What is the currency of Pakistan?",
+          "options": ["Rupee", "Taka", "Dinar", "Rial"],
+          "correctAnswer": "Rupee"
+        },
+        {
+          "question": "Which sea is located to the south of Pakistan?",
+          "options": ["Arabian Sea", "Caspian Sea", "Red Sea", "Black Sea"],
+          "correctAnswer": "Arabian Sea"
+        },
+        {
+          "question": "What is the capital city of Pakistan?",
+          "options": ["Lahore", "Karachi", "Islamabad", "Peshawar"],
+          "correctAnswer": "Islamabad"
+        },
+        {
+          "question": "Which is the highest peak in Pakistan?",
+          "options": ["K2", "Nanga Parbat", "Rakaposhi", "Masherbrum"],
+          "correctAnswer": "K2"
+        },
+        {
+          "question": "Which river is known as the lifeline of Pakistan?",
+          "options": ["Indus River", "Ravi River", "Chenab River", "Jhelum River"],
+          "correctAnswer": "Indus River"
+        },
+        {
+          "question": "Which province of Pakistan is known for its rich Sufi cultural heritage?",
+          "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa"],
+          "correctAnswer": "Sindh"
+        },
+        {
+          "question": "What is the official name of Pakistan?",
+          "options": ["Islamic Republic of Pakistan", "Republic of Pakistan", "State of Pakistan", "Federation of Pakistan"],
+          "correctAnswer": "Islamic Republic of Pakistan"
+        },
+        {
+          "question": "Which famous poet is known as the national poet of Pakistan?",
+          "options": ["Faiz Ahmed Faiz", "Allama Iqbal", "Mirza Ghalib", "Habib Jalib"],
+          "correctAnswer": "Allama Iqbal"
+        },
+        {
+          "question": "Which Pakistani city is famous for the historic Lahore Fort?",
+          "options": ["Islamabad", "Karachi", "Lahore", "Quetta"],
+          "correctAnswer": "Lahore"
+        },
+        {
+          "question": "Who is known as the 'Mother of the Nation' in Pakistan?",
+          "options": ["Benazir Bhutto", "Fatima Jinnah", "Malala Yousafzai", "Asma Jahangir"],
+          "correctAnswer": "Fatima Jinnah"
+        },
+        {
+          "question": "Which university is one of the oldest and most prestigious in Pakistan?",
+          "options": ["LUMS", "Bahria University", "University of the Punjab", "NUST"],
+          "correctAnswer": "University of the Punjab"
+        },
+        {
+          "question": "What is the national flower of Pakistan?",
+          "options": ["Rose", "Jasmine", "Tulip", "Lily"],
+          "correctAnswer": "Jasmine"
+        },
+        {
+          "question": "Which is the largest city in Pakistan by population?",
+          "options": ["Islamabad", "Lahore", "Karachi", "Peshawar"],
+          "correctAnswer": "Karachi"
+        },
+        {
+          "question": "Which historical mosque in Lahore is one of the largest in Pakistan?",
+          "options": ["Badshahi Mosque", "Faisal Mosque", "Shah Jahan Mosque", "Wazir Khan Mosque"],
+          "correctAnswer": "Badshahi Mosque"
+        },
+        {
+          "question": "Which ancient site in Pakistan is famous for the ruins of Mohenjo-Daro?",
+          "options": ["Sindh", "Punjab", "Balochistan", "Khyber Pakhtunkhwa"],
+          "correctAnswer": "Sindh"
+        },
+        {
+          "question": "Who was the first female Prime Minister of Pakistan?",
+          "options": ["Benazir Bhutto", "Fatima Jinnah", "Khadija Takia", "Nusrat Bhutto"],
+          "correctAnswer": "Benazir Bhutto"
+        },
+        {
+          "question": "Which river is considered sacred and is often called the lifeline of Pakistan?",
+          "options": ["Indus River", "Chenab River", "Sutlej River", "Jhelum River"],
+          "correctAnswer": "Indus River"
+        },
+        {
+          "question": "Which year did Pakistan become a nuclear power?",
+          "options": ["1980", "1998", "2001", "1974"],
+          "correctAnswer": "1998"
+        },
+        {
+          "question": "What is the national animal of Pakistan?",
+          "options": ["Markhor", "Snow Leopard", "Ibex", "Chinkara"],
+          "correctAnswer": "Markhor"
+        },
+        {
+          "question": "Which port is one of the busiest in Pakistan?",
+          "options": ["Karachi Port", "Gwadar Port", "Port Qasim", "Pasni Port"],
+          "correctAnswer": "Karachi Port"
+        },
+        {
+          "question": "Which city is known as the 'Manchester of Pakistan' due to its textile industry?",
+          "options": ["Lahore", "Karachi", "Faisalabad", "Rawalpindi"],
+          "correctAnswer": "Faisalabad"
+        },
+        {
+          "question": "Which Pakistani sportsperson is famously nicknamed the 'Sultan of Swing'?",
+          "options": ["Wasim Akram", "Shahid Afridi", "Saeed Ajmal", "Imran Khan"],
+          "correctAnswer": "Wasim Akram"
+        },
+        {
+          "question": "Which national monument in Pakistan symbolizes the struggle for independence?",
+          "options": ["Minar-e-Pakistan", "Mazar-e-Quaid", "Quaid-e-Azam Memorial", "Pakistan Monument"],
+          "correctAnswer": "Minar-e-Pakistan"
+        },
+        {
+          "question": "What is the predominant religion in Pakistan?",
+          "options": ["Islam", "Hinduism", "Christianity", "Sikhism"],
+          "correctAnswer": "Islam"
+        },
+        {
+          "question": "Which sea port was developed with Chinese assistance under CPEC?",
+          "options": ["Karachi Port", "Gwadar Port", "Port Qasim", "Pasni Port"],
+          "correctAnswer": "Gwadar Port"
+        },
+        {
+          "question": "Who was a key figure in developing Pakistan's nuclear program?",
+          "options": ["Abdul Qadeer Khan", "Pervez Musharraf", "Benazir Bhutto", "Imran Khan"],
+          "correctAnswer": "Abdul Qadeer Khan"
+        },
+        {
+          "question": "Which traditional craft is Pakistan famous for?",
+          "options": ["Pottery", "Carpet Weaving", "Glass Blowing", "Metalwork"],
+          "correctAnswer": "Carpet Weaving"
+        },
+        {
+          "question": "Which city is known as the 'City of Saints' in Pakistan?",
+          "options": ["Multan", "Lahore", "Islamabad", "Quetta"],
+          "correctAnswer": "Multan"
+        },
+        {
+          "question": "Which day is celebrated as Pakistan Day?",
+          "options": ["23rd March", "14th August", "25th December", "1st May"],
+          "correctAnswer": "23rd March"
+        },
+        {
+          "question": "Which sport is considered the most popular in Pakistan?",
+          "options": ["Football", "Cricket", "Hockey", "Badminton"],
+          "correctAnswer": "Cricket"
+        },
+        {
+          "question": "Which city is also known as the 'City of Gardens' in Pakistan?",
+          "options": ["Islamabad", "Lahore", "Faisalabad", "Quetta"],
+          "correctAnswer": "Islamabad"
+        },
+        {
+          "question": "Who was the first Governor-General of Pakistan?",
+          "options": ["Muhammad Ali Jinnah", "Liaquat Ali Khan", "Iskander Mirza", "Ayub Khan"],
+          "correctAnswer": "Muhammad Ali Jinnah"
+        },
+        {
+          "question": "Which Pakistani author wrote 'The Reluctant Fundamentalist'?",
+          "options": ["Mohsin Hamid", "Kamila Shamsie", "Nadeem Aslam", "Bapsi Sidhwa"],
+          "correctAnswer": "Mohsin Hamid"
+        },
+        {
+          "question": "What is the official language of Pakistan's judiciary and government besides Urdu?",
+          "options": ["English", "Arabic", "Persian", "Bengali"],
+          "correctAnswer": "English"
+        },
+        {
+          "question": "Which city is known for its significant shipbreaking industry?",
+          "options": ["Karachi", "Gwadar", "Quetta", "Lahore"],
+          "correctAnswer": "Karachi"
+        },
+        {
+          "question": "Which ancient civilization thrived in the region of modern-day Pakistan?",
+          "options": ["Indus Valley Civilization", "Mesopotamian Civilization", "Egyptian Civilization", "Mayan Civilization"],
+          "correctAnswer": "Indus Valley Civilization"
+        }
+      ]
+    },
+    "islamicStudies": {
+      "title": "Islamic Studies Quiz",
+      "questions": [
+        {
+          "question": "How many pillars of Islam are there?",
+          "options": ["4", "5", "6", "7"],
+          "correctAnswer": "5"
+        },
+        {
+          "question": "Who was the last prophet of Islam?",
+          "options": ["Prophet Musa (AS)", "Prophet Isa (AS)", "Prophet Muhammad (PBUH)", "Prophet Ibrahim (AS)"],
+          "correctAnswer": "Prophet Muhammad (PBUH)"
+        },
+        {
+          "question": "What is the first pillar of Islam?",
+          "options": ["Salah", "Zakat", "Shahada", "Hajj"],
+          "correctAnswer": "Shahada"
+        },
+        {
+          "question": "Which angel brought revelations to Prophet Muhammad (PBUH)?",
+          "options": ["Angel Israfil", "Angel Jibrael", "Angel Mikail", "Angel Azrael"],
+          "correctAnswer": "Angel Jibrael"
+        },
+        {
+          "question": "What is the holy book of Islam?",
+          "options": ["Bible", "Torah", "Quran", "Gita"],
+          "correctAnswer": "Quran"
+        },
+        {
+          "question": "Which city is known as the birthplace of Prophet Muhammad (PBUH)?",
+          "options": ["Madinah", "Jerusalem", "Makkah", "Baghdad"],
+          "correctAnswer": "Makkah"
+        },
+        {
+          "question": "How many Rakats are there in Fajr prayer?",
+          "options": ["2", "4", "6", "8"],
+          "correctAnswer": "4"
+        },
+        {
+          "question": "What is the night journey of Prophet Muhammad (PBUH) called?",
+          "options": ["Hijrah", "Miraj", "Hajj", "Ghazwa"],
+          "correctAnswer": "Miraj"
+        },
+        {
+          "question": "During which Islamic month is fasting observed?",
+          "options": ["Muharram", "Ramadan", "Shawwal", "Dhul-Hijjah"],
+          "correctAnswer": "Ramadan"
+        },
+        {
+          "question": "What is the name of the first Surah in the Quran?",
+          "options": ["Surah Al-Baqarah", "Surah Al-Ikhlas", "Surah Al-Fatiha", "Surah Yaseen"],
+          "correctAnswer": "Surah Al-Fatiha"
+        },
+        {
+          "question": "How many chapters (Surahs) are in the Quran?",
+          "options": ["99", "114", "101", "120"],
+          "correctAnswer": "114"
+        },
+        {
+          "question": "What is the second pillar of Islam?",
+          "options": ["Salah", "Zakat", "Sawm", "Hajj"],
+          "correctAnswer": "Salah"
+        },
+        {
+          "question": "What is Zakat?",
+          "options": ["Fasting", "Prayer", "Charity", "Pilgrimage"],
+          "correctAnswer": "Charity"
+        },
+        {
+          "question": "What is the meaning of 'Islam'?",
+          "options": ["Peace", "Surrender", "Submission", "Faith"],
+          "correctAnswer": "Submission"
+        },
+        {
+          "question": "Which Islamic month is considered the holiest?",
+          "options": ["Ramadan", "Muharram", "Safar", "Shawwal"],
+          "correctAnswer": "Ramadan"
+        },
+        {
+          "question": "Who was the first caliph after Prophet Muhammad (PBUH)?",
+          "options": ["Umar ibn al-Khattab", "Abu Bakr", "Uthman ibn Affan", "Ali ibn Abi Talib"],
+          "correctAnswer": "Abu Bakr"
+        },
+        {
+          "question": "Which battle is known as the turning point in early Islamic history?",
+          "options": ["Battle of Badr", "Battle of Uhud", "Battle of Khandaq", "Battle of Tabuk"],
+          "correctAnswer": "Battle of Badr"
+        },
+        {
+          "question": "What does 'Sunnah' refer to in Islam?",
+          "options": ["The Quran", "The traditions of Prophet Muhammad (PBUH)", "Islamic law", "A prayer"],
+          "correctAnswer": "The traditions of Prophet Muhammad (PBUH)"
+        },
+        {
+          "question": "Which Islamic scholar compiled the Hadith collection known as Sahih al-Bukhari?",
+          "options": ["Imam Malik", "Imam Bukhari", "Imam Muslim", "Imam Shafi"],
+          "correctAnswer": "Imam Bukhari"
+        },
+        {
+          "question": "What is the significance of the Kaaba in Islam?",
+          "options": ["It is the place of Prophet Muhammad's birth", "It is a mosque built by Ali", "It is the direction (Qibla) towards which Muslims pray", "It is a pilgrimage site for Christians"],
+          "correctAnswer": "It is the direction (Qibla) towards which Muslims pray"
+        },
+        {
+          "question": "What does 'Hajj' signify in Islam?",
+          "options": ["Fasting", "Charity", "Pilgrimage to Makkah", "Prayer"],
+          "correctAnswer": "Pilgrimage to Makkah"
+        },
+        {
+          "question": "Who was the cousin and son-in-law of Prophet Muhammad (PBUH)?",
+          "options": ["Abu Bakr", "Ali ibn Abi Talib", "Umar ibn al-Khattab", "Uthman ibn Affan"],
+          "correctAnswer": "Ali ibn Abi Talib"
+        },
+        {
+          "question": "Which event marks the migration of Prophet Muhammad (PBUH) from Makkah to Medina?",
+          "options": ["Hijrah", "Miraj", "Iddah", "Nuzul"],
+          "correctAnswer": "Hijrah"
+        },
+        {
+          "question": "What is the term for Islamic jurisprudence?",
+          "options": ["Fiqh", "Hadith", "Tafsir", "Sira"],
+          "correctAnswer": "Fiqh"
+        },
+        {
+          "question": "Who is known as the 'Seal of the Prophets'?",
+          "options": ["Prophet Ibrahim", "Prophet Musa", "Prophet Muhammad", "Prophet Isa"],
+          "correctAnswer": "Prophet Muhammad"
+        },
+        {
+          "question": "Which Surah in the Quran is the longest?",
+          "options": ["Surah Al-Baqarah", "Surah Al-Imran", "Surah An-Nisa", "Surah Al-A'raf"],
+          "correctAnswer": "Surah Al-Baqarah"
+        },
+        {
+          "question": "Which Surah is known as 'The Heart of the Quran'?",
+          "options": ["Surah Yaseen", "Surah Al-Fatiha", "Surah Al-Ikhlas", "Surah Ar-Rahman"],
+          "correctAnswer": "Surah Yaseen"
+        },
+        {
+          "question": "Which Islamic holiday marks the end of Ramadan?",
+          "options": ["Eid ul-Fitr", "Eid ul-Adha", "Ashura", "Mawlid"],
+          "correctAnswer": "Eid ul-Fitr"
+        },
+        {
+          "question": "Which Islamic holiday commemorates Ibrahim's willingness to sacrifice his son?",
+          "options": ["Eid ul-Fitr", "Eid ul-Adha", "Eid ul-Ghadeer", "Eid al-Mubahala"],
+          "correctAnswer": "Eid ul-Adha"
+        },
+        {
+          "question": "Who was the wife of Prophet Muhammad (PBUH) known for her wisdom and scholarship?",
+          "options": ["Aisha", "Khadijah", "Fatimah", "Zainab"],
+          "correctAnswer": "Aisha"
+        },
+        {
+          "question": "What does 'Tawheed' in Islam refer to?",
+          "options": ["Prayer", "Charity", "Oneness of God", "Fasting"],
+          "correctAnswer": "Oneness of God"
+        },
+        {
+          "question": "Which battle was fought at the trench during the time of Prophet Muhammad (PBUH)?",
+          "options": ["Battle of Badr", "Battle of Uhud", "Battle of the Trench", "Battle of Hunayn"],
+          "correctAnswer": "Battle of the Trench"
+        },
+        {
+          "question": "In which Islamic month does Hajj take place?",
+          "options": ["Ramadan", "Dhul-Hijjah", "Shawwal", "Muharram"],
+          "correctAnswer": "Dhul-Hijjah"
+        },
+        {
+          "question": "Who succeeded Prophet Muhammad (PBUH) as the leader of the Muslim community?",
+          "options": ["Caliphate of Abu Bakr", "Caliphate of Umar", "Caliphate of Uthman", "Caliphate of Ali"],
+          "correctAnswer": "Abu Bakr"
+        },
+        {
+          "question": "Which Islamic term describes the community of believers?",
+          "options": ["Ummah", "Jamaat", "Qawm", "Ahl"],
+          "correctAnswer": "Ummah"
+        },
+        {
+          "question": "Which prophet is known for his confrontation with Pharaoh in Egypt?",
+          "options": ["Prophet Ibrahim", "Prophet Musa", "Prophet Isa", "Prophet Yusuf"],
+          "correctAnswer": "Prophet Musa"
+        },
+        {
+          "question": "What is the Arabic term for the recitation rules of the Quran?",
+          "options": ["Tajweed", "Tafsir", "Hadith", "Sira"],
+          "correctAnswer": "Tajweed"
+        },
+        {
+          "question": "Which companion of Prophet Muhammad (PBUH) is renowned for his knowledge of the Quran?",
+          "options": ["Abdullah ibn Mas'ud", "Umar ibn al-Khattab", "Abu Bakr", "Ali ibn Abi Talib"],
+          "correctAnswer": "Abdullah ibn Mas'ud"
+        },
+        {
+          "question": "What does 'Halal' mean in Islam?",
+          "options": ["Forbidden", "Permissible", "Sacred", "Unclean"],
+          "correctAnswer": "Permissible"
+        },
+        {
+          "question": "What is the significance of 'Laylat al-Qadr'?",
+          "options": ["Night of Power", "Night of Forgiveness", "Night of Destiny", "Night of Judgment"],
+          "correctAnswer": "Night of Power"
+        },
+        {
+          "question": "Which caliph is known for his administrative reforms in early Islam?",
+          "options": ["Umar ibn al-Khattab", "Abu Bakr", "Uthman ibn Affan", "Ali ibn Abi Talib"],
+          "correctAnswer": "Umar ibn al-Khattab"
+        },
+        {
+          "question": "What does 'Sadaqah' refer to in Islam?",
+          "options": ["Voluntary charity", "Obligatory prayer", "Fasting", "Pilgrimage"],
+          "correctAnswer": "Voluntary charity"
+        },
+        {
+          "question": "Which book of Hadith is considered second in authenticity after Sahih al-Bukhari?",
+          "options": ["Sahih Muslim", "Sunan Abu Dawood", "Jami' at-Tirmidhi", "Sunan an-Nasa'i"],
+          "correctAnswer": "Sahih Muslim"
+        },
+        {
+          "question": "What does the term 'Iman' refer to in Islam?",
+          "options": ["Faith", "Charity", "Prayer", "Fasting"],
+          "correctAnswer": "Faith"
+        },
+        {
+          "question": "Which Islamic scholar is known for his work 'The Revival of the Religious Sciences'?",
+          "options": ["Ibn Taymiyyah", "Al-Ghazali", "Ibn Sina", "Rumi"],
+          "correctAnswer": "Al-Ghazali"
+        },
+        {
+          "question": "What is the term for the consensus of Islamic scholars?",
+          "options": ["Ijma", "Qiyas", "Sunnah", "Hadith"],
+          "correctAnswer": "Ijma"
+        },
+        {
+          "question": "Which Surah tells the detailed story of Prophet Yusuf?",
+          "options": ["Surah Yusuf", "Surah Al-Baqarah", "Surah Al-Imran", "Surah An-Nisa"],
+          "correctAnswer": "Surah Yusuf"
+        },
+        {
+          "question": "Which Islamic month marks the beginning of the Islamic New Year?",
+          "options": ["Muharram", "Safar", "Rabi' al-awwal", "Rajab"],
+          "correctAnswer": "Muharram"
+        },
+        {
+          "question": "Which companion is credited with compiling the Quran into a single book?",
+          "options": ["Abu Bakr", "Umar ibn al-Khattab", "Uthman ibn Affan", "Ali ibn Abi Talib"],
+          "correctAnswer": "Uthman ibn Affan"
+        },
+        {
+          "question": "What is the significance of the Hijri calendar in Islam?",
+          "options": ["It marks the birth of Prophet Muhammad (PBUH)", "It is used for determining the dates of Islamic events", "It was created by Prophet Muhammad (PBUH)", "It is the same as the Gregorian calendar"],
+          "correctAnswer": "It is used for determining the dates of Islamic events"
+        }
+      ]
+    },
+    "everydayScience": {
+      "title": "Everyday Science Quiz",
+      "questions": [
+        {
+          "question": "What is the chemical symbol for water?",
+          "options": ["H2O", "CO2", "NaCl", "O2"],
+          "correctAnswer": "H2O"
+        },
+        {
+          "question": "What planet is known as the Red Planet?",
+          "options": ["Earth", "Venus", "Mars", "Jupiter"],
+          "correctAnswer": "Mars"
+        },
+        {
+          "question": "Which gas do plants absorb from the atmosphere?",
+          "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "What is the powerhouse of the cell?",
+          "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+          "correctAnswer": "Mitochondria"
+        },
+        {
+          "question": "Which vitamin is produced by the human body when exposed to sunlight?",
+          "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+          "correctAnswer": "Vitamin D"
+        },
+        {
+          "question": "What is the boiling point of water in Celsius?",
+          "options": ["50°C", "75°C", "100°C", "150°C"],
+          "correctAnswer": "100°C"
+        },
+        {
+          "question": "Which part of the human body contains the most bones?",
+          "options": ["Leg", "Hand", "Spine", "Skull"],
+          "correctAnswer": "Hand"
+        },
+        {
+          "question": "What gas do humans exhale?",
+          "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "Which metal is liquid at room temperature?",
+          "options": ["Gold", "Mercury", "Iron", "Silver"],
+          "correctAnswer": "Mercury"
+        },
+        {
+          "question": "How many colors are in a rainbow?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "7"
+        },
+        {
+          "question": "What is the chemical symbol for gold?",
+          "options": ["Au", "Ag", "Gd", "Go"],
+          "correctAnswer": "Au"
+        },
+        {
+          "question": "What is the center of an atom called?",
+          "options": ["Electron", "Neutron", "Nucleus", "Proton"],
+          "correctAnswer": "Nucleus"
+        },
+        {
+          "question": "What force keeps us on the ground?",
+          "options": ["Magnetism", "Gravity", "Friction", "Electricity"],
+          "correctAnswer": "Gravity"
+        },
+        {
+          "question": "Which gas do humans breathe in?",
+          "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+          "correctAnswer": "Oxygen"
+        },
+        {
+          "question": "What is the boiling point of water in Kelvin?",
+          "options": ["273 K", "373 K", "373.15 K", "283 K"],
+          "correctAnswer": "373.15 K"
+        },
+        {
+          "question": "What is the process of a liquid turning into a gas called?",
+          "options": ["Condensation", "Evaporation", "Sublimation", "Precipitation"],
+          "correctAnswer": "Evaporation"
+        },
+        {
+          "question": "Which part of the plant conducts photosynthesis?",
+          "options": ["Roots", "Stem", "Leaves", "Flowers"],
+          "correctAnswer": "Leaves"
+        },
+        {
+          "question": "What is the primary gas found in the Earth's atmosphere?",
+          "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+          "correctAnswer": "Nitrogen"
+        },
+        {
+          "question": "What device is used to measure temperature?",
+          "options": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+          "correctAnswer": "Thermometer"
+        },
+        {
+          "question": "What is the process by which plants lose water through their leaves?",
+          "options": ["Respiration", "Transpiration", "Evaporation", "Condensation"],
+          "correctAnswer": "Transpiration"
+        },
+        {
+          "question": "What part of the cell contains genetic material?",
+          "options": ["Mitochondria", "Ribosome", "Nucleus", "Cytoplasm"],
+          "correctAnswer": "Nucleus"
+        },
+        {
+          "question": "What is the hardest known natural material?",
+          "options": ["Gold", "Diamond", "Iron", "Quartz"],
+          "correctAnswer": "Diamond"
+        },
+        {
+          "question": "What kind of energy is stored in food?",
+          "options": ["Kinetic Energy", "Chemical Energy", "Potential Energy", "Thermal Energy"],
+          "correctAnswer": "Chemical Energy"
+        },
+        {
+          "question": "Which planet is known as the Earth's twin?",
+          "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+          "correctAnswer": "Venus"
+        },
+        {
+          "question": "What phenomenon causes the splitting of white light into its component colors?",
+          "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+          "correctAnswer": "Refraction"
+        },
+        {
+          "question": "What is the study of living organisms called?",
+          "options": ["Physics", "Chemistry", "Biology", "Geology"],
+          "correctAnswer": "Biology"
+        },
+        {
+          "question": "What is the term for an organism's ability to maintain a stable internal environment?",
+          "options": ["Metabolism", "Homeostasis", "Adaptation", "Evolution"],
+          "correctAnswer": "Homeostasis"
+        },
+        {
+          "question": "Which organ in the human body is primarily responsible for detoxification?",
+          "options": ["Heart", "Liver", "Kidney", "Lungs"],
+          "correctAnswer": "Liver"
+        },
+        {
+          "question": "Which planet is the largest in our solar system?",
+          "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "question": "What is the study of weather called?",
+          "options": ["Geology", "Astronomy", "Meteorology", "Oceanography"],
+          "correctAnswer": "Meteorology"
+        },
+        {
+          "question": "What unit is used to measure electric current?",
+          "options": ["Volt", "Ohm", "Ampere", "Watt"],
+          "correctAnswer": "Ampere"
+        },
+        {
+          "question": "What kind of energy is produced by moving objects?",
+          "options": ["Potential Energy", "Kinetic Energy", "Chemical Energy", "Thermal Energy"],
+          "correctAnswer": "Kinetic Energy"
+        },
+        {
+          "question": "What is the chemical formula for table salt?",
+          "options": ["NaCl", "KCl", "CaCO3", "NaHCO3"],
+          "correctAnswer": "NaCl"
+        },
+        {
+          "question": "Which part of the electromagnetic spectrum is visible to the human eye?",
+          "options": ["Ultraviolet", "Infrared", "Visible Light", "Radio Waves"],
+          "correctAnswer": "Visible Light"
+        },
+        {
+          "question": "Which device converts electrical energy into mechanical energy?",
+          "options": ["Generator", "Motor", "Transformer", "Battery"],
+          "correctAnswer": "Motor"
+        },
+        {
+          "question": "What is the process of converting solid directly into gas called?",
+          "options": ["Melting", "Evaporation", "Sublimation", "Condensation"],
+          "correctAnswer": "Sublimation"
+        },
+        {
+          "question": "What is the most abundant element in the universe?",
+          "options": ["Oxygen", "Hydrogen", "Carbon", "Helium"],
+          "correctAnswer": "Hydrogen"
+        },
+        {
+          "question": "What is the term for a change in a substance from a gas to a liquid?",
+          "options": ["Condensation", "Sublimation", "Deposition", "Evaporation"],
+          "correctAnswer": "Condensation"
+        },
+        {
+          "question": "Which organ in the human body is responsible for pumping blood?",
+          "options": ["Brain", "Liver", "Heart", "Kidney"],
+          "correctAnswer": "Heart"
+        },
+        {
+          "question": "What type of energy is stored in a stretched spring?",
+          "options": ["Kinetic Energy", "Potential Energy", "Thermal Energy", "Nuclear Energy"],
+          "correctAnswer": "Potential Energy"
+        },
+        {
+          "question": "What is the main gas responsible for global warming?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+          "correctAnswer": "Carbon Dioxide"
+        },
+        {
+          "question": "What is the pH value of pure water?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "7"
+        },
+        {
+          "question": "Which instrument is used to measure atmospheric pressure?",
+          "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+          "correctAnswer": "Barometer"
+        },
+        {
+          "question": "What is the smallest unit of life?",
+          "options": ["Atom", "Molecule", "Cell", "Organ"],
+          "correctAnswer": "Cell"
+        },
+        {
+          "question": "What type of bond involves the sharing of electron pairs between atoms?",
+          "options": ["Ionic bond", "Covalent bond", "Hydrogen bond", "Metallic bond"],
+          "correctAnswer": "Covalent bond"
+        },
+        {
+          "question": "Which scientist proposed the theory of evolution by natural selection?",
+          "options": ["Albert Einstein", "Charles Darwin", "Isaac Newton", "Gregor Mendel"],
+          "correctAnswer": "Charles Darwin"
+        },
+        {
+          "question": "What is the force that opposes motion between two surfaces in contact?",
+          "options": ["Gravity", "Magnetism", "Friction", "Inertia"],
+          "correctAnswer": "Friction"
+        },
+        {
+          "question": "What phenomenon causes the change of seasons on Earth?",
+          "options": ["Earth's rotation", "Earth's revolution around the Sun", "Axial tilt", "Moon phases"],
+          "correctAnswer": "Axial tilt"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating balance and coordination?",
+          "options": ["Cerebrum", "Cerebellum", "Brainstem", "Hypothalamus"],
+          "correctAnswer": "Cerebellum"
+        },
+        {
+          "question": "What is the main function of red blood cells?",
+          "options": ["Fight infections", "Carry oxygen", "Clot blood", "Produce hormones"],
+          "correctAnswer": "Carry oxygen"
+        }
+      ]
+    }
+  }
+  
