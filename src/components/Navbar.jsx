@@ -48,7 +48,7 @@ export default function Navbar() {
           isSticky ? "fixed top-0 left-0 shadow-lg z-50" : "relative"
         }`}
       >
-        <div className="font-semibold text-4xl">Infirix.com</div>
+        <div className="font-semibold text-4xl">Infirix.io</div>
         <button className="lg:hidden" onClick={() => setIsOpen(!isOpen)}>
           {isOpen ? <HiX size={28} /> : <HiMenu size={28} />}
         </button>

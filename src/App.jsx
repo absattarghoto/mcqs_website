@@ -5,6 +5,7 @@ import Courses from './components/Courses'
 import Quiz from './components/Quiz';
 import Mcqs from './components/Mcqs.jsx'
 import PastPaper from './components/PastPaper.jsx';
+import Footer from './components/Footer.jsx';
 const App = () => {
   return (
     <div>
@@ -14,6 +15,7 @@ const App = () => {
       <Quiz/>
       <Mcqs/>
       <PastPaper/>
+      <Footer/>
     </div>
   );
 }
