@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Home from './components/Home'
 import Courses from './components/Courses'
 import Quiz from './components/Quiz';
+import Mcqs from './components/Mcqs.jsx'
 const App = () => {
   return (
     <div>
@@ -10,6 +11,7 @@ const App = () => {
       <Home/>
       <Courses/>
       <Quiz/>
+      <Mcqs/>
     </div>
   );
 }
