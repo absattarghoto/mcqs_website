@@ -4,6 +4,7 @@ import Home from './components/Home'
 import Courses from './components/Courses'
 import Quiz from './components/Quiz';
 import Mcqs from './components/Mcqs.jsx'
+import PastPaper from './components/PastPaper.jsx';
 const App = () => {
   return (
     <div>
@@ -12,6 +13,7 @@ const App = () => {
       <Courses/>
       <Quiz/>
       <Mcqs/>
+      <PastPaper/>
     </div>
   );
 }

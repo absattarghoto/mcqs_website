@@ -327,7 +327,7 @@ const QuizApp = () => {
                 <button
                   key={quizKey}
                   onClick={() => selectQuiz(quizKey)}
-                  className="w-full text-left text-secondary rounded-lg hover:text-primary transition duration-300"
+                  className="w-full text-left font-medium text-secondary rounded-lg hover:text-primary transition duration-300"
                 >
                   {quizCategories[quizKey].title}
                 </button>
