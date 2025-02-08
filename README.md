@@ -47,28 +47,6 @@ Welcome to **PakMcqs Quiz App**! This React-based web application is designed to
   
 
 ---
-
-
-/src
-├── App.jsx                  // Main application component
-├── components
-│   ├── Navbar.jsx           // Navigation bar component
-│   ├── Home.jsx             // Home page component
-│   ├── Courses.jsx          // Courses page displaying video tutorials
-│   ├── Quiz.jsx             // Quiz page with interactive quiz component
-│   ├── Mcqs.jsx             // MCQs practice and information section
-│   ├── PastPaper.jsx        // Past exam papers download section
-│   └── Footer.jsx           // Footer component with company info and quick links
-├── layouts
-│   ├── CourseCard.jsx       // Layout component used in Courses.jsx
-│   └── QuizApp.jsx          // Layout component handling quiz functionality
-└── docs
-    ├── Pdf_one.pdf          // PDF for "General Knowledge Quiz"
-    ├── Pdf_two.pdf          // PDF for "PAK Study MCQs Quiz"
-    ├── Pdf_three.pdf        // PDF for "Islamic Studies Quiz"
-    └── Pdf_four.pdf         // PDF for "Everyday Science Quiz"
-
----
 ## ⚙️ Installation
 
 Follow these steps to set up the project locally:
